@@ -6,8 +6,8 @@ General form will be `<Conference/Meetup name>`/`<Year>`/`<Title>`.
 
 # 2025
 
- * [Techniques For Declarative Programming](CppNow/2025/TechniquesForDeclarativeProgramming/TechniquesForDeclarativeProgramming.key)
- * [Laws To Live By - A Lightning Talk](CppNow/2025/LawsToLiveBy-LightningTalk/LawsToLiveBy%20-%20Lightning%20talk.key)
- * [Library In A Week](CppNow/2025/LIAW/Library%20in%20a%20Week%202025.key)
+ * [Techniques For Declarative Programming](CppNow/2025/TechniquesForDeclarativeProgramming)
+ * [Laws To Live By - A Lightning Talk](CppNow/2025/LawsToLiveBy-LightningTalk)
+ * [Library In A Week](CppNow/2025/LIAW)
 
 
