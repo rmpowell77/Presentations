@@ -2,6 +2,12 @@
 
 Archive of the presentations I've given at various conferences and meetups.  As I am a fan of using keynote, I've saved off the keynote files (including all the complexity of the various versions of file formats over the years) and a PDF rendering of each.
 
-General form will be <Conference/Meetup name>/<Year>/<Title>.
+General form will be `<Conference/Meetup name>`/`<Year>`/`<Title>`.
+
+# 2025
+
+ * [Techniques For Declarative Programming](CppNow/2025/TechniquesForDeclarativeProgramming/TechniquesForDeclarativeProgramming.key)
+ * [Laws To Live By - A Lightning Talk](CppNow/2025/LawsToLiveBy-LightningTalk/LawsToLiveBy%20-%20Lightning%20talk.key)
+ * [Library In A Week](CppNow/2025/LIAW/Library%20in%20a%20Week%202025.key)
 
 
