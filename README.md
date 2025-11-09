@@ -16,7 +16,7 @@ General form will be `<Conference/Meetup name>`/`<Year>`/`<Title>`.
 
 ## CppCon
 
- * [How To Argue(ment)](CppCon/2018/HowToArguement) - [YouTube](https://youtu.be/ZbVCGCy3mGQ?si=J_QZNlderKVBiwjK)
+ * [How To Argue(ment)](CppCon/2018/HowToArgument) - [YouTube](https://youtu.be/ZbVCGCy3mGQ?si=J_QZNlderKVBiwjK)
  * [Named Arguments From Scatch](CppCon/2018/NamedArgumentsFromScratch) - [YouTube](https://youtu.be/Grveezn0zhU?si=FvvUcvL2HC7GAKoJ)
 
 ## C++Now
