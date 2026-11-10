@@ -12,6 +12,25 @@ General form will be `<Conference/Meetup name>`/`<Year>`/`<Title>`.
  * [Laws To Live By - A Lightning Talk](CppNow/2025/LawsToLiveBy-LightningTalk)
  * [Library In A Week](CppNow/2025/LIAW)
 
+## CppBayArea
+
+ * [More Declarative Programming Paradigms](CppBayArea/2025/BuildingDeclarativeUIsPart2) - [Meetup](https://www.meetup.com/cpp-bay-area/events/306663484)
+ * [Creating Declarative Programming Paradigms](CppBayArea/2025/BuildingDeclarativeUIs) - [Meetup](https://www.meetup.com/cpp-bay-area/events/305681772) - [Youtube](https://youtu.be/1BtleqsN3_Y?si=7JgJtTdJ13ncKiIO)
+
+# 2023
+
+## CppBayArea
+
+ * [Creating a Declarative UI Library in C++ with wxWidgets](CppBayArea/2023/DeclarativeUILibraryWithwxWidgets) - [Meetup](https://www.meetup.com/cpp-bay-area/events/291429740)
+
+# 2022
+
+## CppBayArea
+
+ * [Exploring Deducing `this`](CppBayArea/2022/DeducingThisAndCppCon2022) - [Meetup](https://www.meetup.com/cpp-bay-area/events/288716723)
+ * [Compiler Explorer](CppBayArea/2022/CompilerExplorer) - [Meetup](https://www.meetup.com/cpp-bay-area/events/286080123)
+ * [C++ Resources For All](CppBayArea/2022/CppResourcesForAll) - [Meetup](https://www.meetup.com/cpp-bay-area/events/286080123)
+
 # 2018
 
 ## CppCon
