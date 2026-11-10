@@ -6,6 +6,10 @@ General form will be `<Conference/Meetup name>`/`<Year>`/`<Title>`.
 
 # 2025
 
+## CppCon
+
+ * [Creating a Declarative UI Library in C++](CppCon/2025/CppCon2025) - [YouTube](https://youtu.be/xu4pI72zlO4?si=QUtQY2WSqkpY81Pp)
+
 ## C++Now
 
  * [Techniques For Declarative Programming](CppNow/2025/TechniquesForDeclarativeProgramming) - [YouTube](https://youtu.be/zyz0IUc5po4?si=AC0pB4lPb6DVy_Zv)
