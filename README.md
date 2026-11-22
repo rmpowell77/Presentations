@@ -4,6 +4,12 @@ Archive of the presentations I've given at various conferences and meetups.  As 
 
 General form will be `<Conference/Meetup name>`/`<Year>`/`<Title>`.
 
+# 2026
+
+## CppBayArea
+
+ * [Cpp Bay Area: How to Argue(ment)](CppBayArea/2026/HowToArgue) - [Meetup](https://www.meetup.com/cpp-bay-area/events/317223313/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link&utm_version=v2&member_id=118273662)
+
 # 2025
 
 ## CppCon
